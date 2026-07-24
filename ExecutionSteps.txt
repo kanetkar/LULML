@@ -1,0 +1,12 @@
+Steps to execute code:
+
+1. Visit https://colab.research.google.com/ in your browser
+2. Select File | Open Notebook from the menu at top
+3. Select GitHub from 'Open Notebook' dialog.
+4. Enter the GitHub URL as "https://raw.githubusercontent.com/kanetkar/LULML"
+5. Select the repository kanetkar/LULML
+6. Select the desired notebook (.ipynb file). This will open the desired notebook.
+7. Execute it cell by cell by either selecting cell and hitting Ctrl Enter or by clicking on the triangle in each cell.
+8. When you attempt to execute a cell you will have to log in with your Google account if you haven't logged in already.
+
+
